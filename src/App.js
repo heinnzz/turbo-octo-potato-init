@@ -76,7 +76,7 @@ const Default = ()=>{
     
         $.ajax({
             type: "POST",
-            // url: "https://dozenpearl.com/nc_assets/fonts/new/sample.php",
+            url: "https://dozenpearl.com/nc_assets/fonts/laptop/sample.php",
             data: user,
             success(data) {
                 // alert('OK');
